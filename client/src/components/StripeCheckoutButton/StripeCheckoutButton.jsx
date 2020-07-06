@@ -8,7 +8,7 @@ const StripeCheckoutButton = ({ price, clearItemsFromCart }) => {
   const priceForStripe = price * 100;
   //NOTE: key get from stripe site
   const publishableKey =
-    "pk_test_51Gr03oKgABCagJ0UgaKDnSZKI4gReCvFIcvOzhgVRnnaj5fCIAPvtr4KQ1r9yYNTBY377jr8rHBwWsyYt84zhiT100V47g4YJu";
+    "pk_test_51H1kspJUwMQsQNDO0abg4woH2KlFQnGTDvSEVEsBPqzZMPmtqBoo4Pmgg4FHNgWWzmnZuJeA6kC35PaAWWiU97x4004BfW4Sdo";
 
   const onToken = (token) => {
     axios({
