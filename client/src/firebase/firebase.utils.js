@@ -3,14 +3,14 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyC3hCYw-0-YzPtBPLJiC1uzpRvTWcX0R1E",
-  authDomain: "e-clothing-db-99ba3.firebaseapp.com",
-  databaseURL: "https://e-clothing-db-99ba3.firebaseio.com",
-  projectId: "e-clothing-db-99ba3",
-  storageBucket: "e-clothing-db-99ba3.appspot.com",
-  messagingSenderId: "742988137112",
-  appId: "1:742988137112:web:019ebab61b8d48f0e486ed",
-  measurementId: "G-BSR2VD2FL7",
+  apiKey: "AIzaSyBepttqqRX552fRCvPEFhdGOxz1pt5YPes",
+  authDomain: "phantoscopehomestop.firebaseapp.com",
+  databaseURL: "https://phantoscopehomestop.firebaseio.com",
+  projectId: "phantoscopehomestop",
+  storageBucket: "phantoscopehomestop.appspot.com",
+  messagingSenderId: "296698074907",
+  appId: "1:296698074907:web:f87dc6ebdc30ed816a25be",
+  measurementId: "G-765BGQK59N",
 };
 firebase.initializeApp(config);
 
